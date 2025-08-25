@@ -39,7 +39,7 @@ This project is free to use, and no license is required. Contributions are welco
 Special thanks to my college professors and peers for their support during the development of this project.
 
 ## Contact
-For any inquiries or feedback, please reach out via [your email or contact method].
+For any inquiries or feedback, please reach out via Jabagat09125@gmail.com.
 
 ---
 
